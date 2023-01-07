@@ -19,4 +19,5 @@
 
   ---
   ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikkitkit007&theme=dark&background=000000)](https://git.io/streak-stats)
+  <div id="stats" align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikkitkit007&theme=light&background=000000)](https://git.io/streak-stats)
