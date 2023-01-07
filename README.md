@@ -6,8 +6,8 @@
   </div>
 
   ---    
-  <div id="skills" align="left">
-  :hammer_and_wrench: Languages and Tools :
+  ###:hammer_and_wrench: Languages and Tools :
+    <div id="skills" align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" **alt="flask" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" **alt="docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>
@@ -17,7 +17,5 @@
   </div>
 
   ---
-  <div id="stats" align="left">
   ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikkitkit007&theme=dark&background=000000)](https://git.io/streak-stats)
-  </div>
