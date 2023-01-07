@@ -1,4 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Nik!>
+<h1 align="center">Hi there 👋, I'm Nik!
+  
+My stack of skills:
+
+| | |
+| | |
+| | |
 <!--
 **nikkitkit007/nikkitkit007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
